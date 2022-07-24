@@ -33,7 +33,8 @@
 
 ## Hello, I am Alício Alves!
 
-- Front End developer at Dacxi
+- 26 Years Old
+- Front End Developer at Dacxi
 - Back End enthusiast, currently learning Blockchain Development using Golang
 - Game Developer on my spare time
 

@@ -27,7 +27,7 @@
   </a>
   </p>
 
-<a href="https://app.daily.dev/alicioalves"><img width="300" align="right" src="https://raw.githubusercontent.com/alicioalves/alicioalves/c961642cea37dd5b3fc346926442c362e7390358/devcard.svg?token=AKZ4WLB7SM74FEU4QHS2FRTC3SLSE" alt="Alício Alves's Dev Card" style="margin-top:50px;"/></a>
+<a href="https://app.daily.dev/alicioalves"><img width="300" align="right" src="https://github.com/alicioalves/alicioalves/blob/main/devcard.svg" alt="Alício Alves's Dev Card" style="margin-top:50px;"/></a>
 
 <div style="padding:20px">
 

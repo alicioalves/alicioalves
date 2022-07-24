@@ -63,7 +63,6 @@
 
 ## Back End
 
-https://raw.githubusercontent.com/alicioalves/alicioalves/c961642cea37dd5b3fc346926442c362e7390358/devcard.svg?token=AKZ4WLB7SM74FEU4QHS2FRTC3SLSE
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)

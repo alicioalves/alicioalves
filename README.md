@@ -100,3 +100,11 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
+
+<div>
+
+# Achievements
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=alicioalves&theme=dracula&column=-1&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>

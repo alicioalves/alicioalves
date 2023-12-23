@@ -34,10 +34,9 @@
 ## Hello, I am Alício Alves!
 
 - 28 Years Old
-- Front End Developer at Wealth99
+- Mid-level Front End Developer & Mobile Developer at Wealth99
 - Full Stack Web Developer
-- Mobile Developer
-- Game Developer on my spare time
+- Game Developer in my spare time
 
 </div>
 

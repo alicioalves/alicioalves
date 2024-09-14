@@ -42,8 +42,8 @@
 
 <div style="margin-top:10px">
 <a href="https://github.com/alicioalves">
-<img height="200px" w src="https://github-readme-stats.vercel.app/api?username=alicioalves&show_icons=true&theme=jolly&count_private=true?v=1"/>
-<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alicioalves&hide=shaderlab,css,hlsl,html,blade&layout=compact&show_icons=true&title_color=FE63D9&icon_color=34abeb&text_color=daf7dc&bg_color=291B3E&card_width=370&langs_count=6&">
+<img height="200px" w src="alicioalves-github-readme-stats.vercel.app/api?username=alicioalves&show_icons=true&theme=jolly&count_private=true?v=1"/>
+<img height="200px" src="alicioalves-github-readme-stats.vercel.app/api/top-langs/?username=alicioalves&hide=shaderlab,css,hlsl,html,blade&layout=compact&show_icons=true&title_color=FE63D9&icon_color=34abeb&text_color=daf7dc&bg_color=291B3E&card_width=370&langs_count=6&">
 </a>
 </div>
 </div>

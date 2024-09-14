@@ -54,7 +54,6 @@
 
 ## Amazon Web Services (AWS)
 
-![AWS](https://img.shields.io/badge/Amazon%20AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Amazon Cognito](https://img.shields.io/badge/Amazon%20Cognito-%235A3876.svg?style=for-the-badge&logo=amazon-cognito&logoColor=white)
 ![AWS API Gateway](https://img.shields.io/badge/AWS%20API%20Gateway-%23FF4F8B.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![AWS CloudFormation](https://img.shields.io/badge/AWS%20CloudFormation-%23FF4F8B.svg?style=for-the-badge&logo=amazon-cloudformation&logoColor=white)

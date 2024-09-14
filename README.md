@@ -34,9 +34,7 @@
 ## Hello, I am Alício Alves!
 
 - 28 Years Old
-- Mid-level Front End Developer & Mobile Developer at Wealth99
-- Full Stack Web Developer
-- Game Developer in my spare time
+- Full Cycle Developer
 
 </div>
 
@@ -52,10 +50,35 @@
 
 # Tech
 
+## Amazon Web Services (AWS)
+
+![AWS](https://img.shields.io/badge/Amazon%20AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Amazon Cognito](https://img.shields.io/badge/Amazon%20Cognito-%235A3876.svg?style=for-the-badge&logo=amazon-cognito&logoColor=white)
+![AWS API Gateway](https://img.shields.io/badge/AWS%20API%20Gateway-%23FF4F8B.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS CloudFormation](https://img.shields.io/badge/AWS%20CloudFormation-%23FF4F8B.svg?style=for-the-badge&logo=amazon-cloudformation&logoColor=white)
+![Amazon SES](https://img.shields.io/badge/Amazon%20SES-%23232F3E.svg?style=for-the-badge&logo=amazon-ses&logoColor=white)
+![Amazon SNS](https://img.shields.io/badge/Amazon%20SNS-%23FF9900.svg?style=for-the-badge&logo=amazon-sns&logoColor=white)
+![Amazon SQS](https://img.shields.io/badge/Amazon%20SQS-%23232F3E.svg?style=for-the-badge&logo=amazon-sqs&logoColor=white)
+![Amazon VPC](https://img.shields.io/badge/Amazon%20VPC-%230071C5.svg?style=for-the-badge&logo=amazon-vpc&logoColor=white)
+![AWS Backup](https://img.shields.io/badge/AWS%20Backup-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-%23FF9900.svg?style=for-the-badge&logo=aws-lambda&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon%20S3-%23F1502F.svg?style=for-the-badge&logo=amazon-s3&logoColor=white)
+![Amazon RDS](https://img.shields.io/badge/Amazon%20RDS-%232178C4.svg?style=for-the-badge&logo=amazon-rds&logoColor=white)
+![AWS CloudFront](https://img.shields.io/badge/AWS%20CloudFront-%23F05032.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS%20EC2-%23FF9900.svg?style=for-the-badge&logo=amazon-ec2&logoColor=white)
+![AWS IAM](https://img.shields.io/badge/AWS%20IAM-%232C4E98.svg?style=for-the-badge&logo=amazon-iam&logoColor=white)
+![AWS Amplify](https://img.shields.io/badge/AWS%20Amplify-%23FF9900.svg?style=for-the-badge&logo=aws-amplify&logoColor=white)
+![Amazon CloudWatch](https://img.shields.io/badge/Amazon%20CloudWatch-%23FF4F8B.svg?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white)
+
 ## Front End
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-%2300C58E.svg?style=for-the-badge&logo=nuxt.js&logoColor=white)
+![NuxtUI](https://img.shields.io/badge/NuxtUI-%2300C58E.svg?style=for-the-badge&logo=nuxt.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![Pinia](https://img.shields.io/badge/Pinia-%23e5df88.svg?style=for-the-badge&logo=vue.js&logoColor=white)
+![i18n](https://img.shields.io/badge/i18n-%230076B6.svg?style=for-the-badge&logo=google-translate&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-%23202429.svg?style=for-the-badge&logo=axios&logoColor=white)
+![SEO](https://img.shields.io/badge/SEO-%23326791.svg?style=for-the-badge&logo=google&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -73,16 +96,40 @@
 ## Databases
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-%232D3748.svg?style=for-the-badge&logo=prisma&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-%2300C4B9.svg?style=for-the-badge&logo=supabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### AI
+
+![OpenAI](https://img.shields.io/badge/OpenAI-%234EA94B.svg?style=for-the-badge&logo=openai&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![CoquiTTS](https://img.shields.io/badge/CoquiTTS-%230077B5.svg?style=for-the-badge&logo=coqui&logoColor=white)
+![SadTalker](https://img.shields.io/badge/SadTalker-%23FF4F8B.svg?style=for-the-badge&logo=ai&logoColor=white)
+![Midjourney](https://img.shields.io/badge/Midjourney-%234084B4.svg?style=for-the-badge&logo=midjourney&logoColor=white)
+![GPT](https://img.shields.io/badge/GPT-%237F7FFF.svg?style=for-the-badge&logo=gpt&logoColor=white)
+![DALL-E](https://img.shields.io/badge/DALL--E-%234A4A4A.svg?style=for-the-badge&logo=openai&logoColor=white)
+
+
+## Mobile Development
+
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Capacitor](https://img.shields.io/badge/Capacitor-%230064FF.svg?style=for-the-badge&logo=capacitor&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-%230071C5.svg?style=for-the-badge&logo=xcode&logoColor=white)
+
+## Payment Integration
+
+![Stripe](https://img.shields.io/badge/Stripe-%23646CFF.svg?style=for-the-badge&logo=stripe&logoColor=white)
+![Mercado Pago](https://img.shields.io/badge/Mercado%20Pago-%2300B2E3.svg?style=for-the-badge&logo=mercadopago&logoColor=white)
 
 ## Game Development
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
-## Mobile Development
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
 ## Other Languages I've worked with in the past
 

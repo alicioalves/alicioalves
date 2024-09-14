@@ -33,7 +33,7 @@
 
 ## Hello, I am Alício Alves!
 
-- 28 Years Old
+- 29 Years Old
 - Full Cycle Developer
 
  <a href="https://app.daily.dev/alicioalves"><img width="300" align="right" src="https://github.com/alicioalves/alicioalves/blob/main/devcard.svg" alt="Alício Alves's Dev Card" style="margin-top:50px;"/></a>

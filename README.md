@@ -1,22 +1,10 @@
 <div align="left" style="margin-bottom:20px">
 
- <p align="center"><a href="https://twitter.com/alicioalvesm">
-    <img
-      src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"
-      alt="Twitter"
-    />
-  </a>
-  </a>
-  <a href="https://www.linkedin.com/in/al%C3%ADcio-alves-de-mendon%C3%A7a-58114313b/">
+ <p align="center">
+  <a href="[https://www.linkedin.com/in/al%C3%ADcio-alves-de-mendon%C3%A7a-58114313b/](https://www.linkedin.com/in/alicioalvesm/)">
     <img
       src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn"
-    />
-  </a>
-    <a href="https://www.twitch.tv/sn0wtv">
-    <img
-      src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white"
-      alt="Twitch"
     />
   </a>
    <a href="https://www.instagram.com/alicio_a/">
@@ -73,7 +61,7 @@
 
 ## Front End
 
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-%2300C58E.svg?style=for-the-badge&logo=nuxt.js&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt-%2300C58E.svg?style=for-the-badge&logo=nuxt.js&logoColor=white)
 ![NuxtUI](https://img.shields.io/badge/NuxtUI-%2300C58E.svg?style=for-the-badge&logo=nuxt.js&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![Pinia](https://img.shields.io/badge/Pinia-%23e5df88.svg?style=for-the-badge&logo=vue.js&logoColor=white)
